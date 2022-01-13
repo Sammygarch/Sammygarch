@@ -3,7 +3,7 @@
 #####                          I am intrested in contributing in more open source this year to improve my python skills
 
 ## Connect with me:
-<a href="https://twitter.com/SammyGa50283232" target="_blank"><img src="https://img.shields.io/twitter/follow/SammyNG?logo=twitter&style=for-the-badge" /></a>
+<a href="https://twitter.com/ItsSammyng" target="_blank"><img src="https://img.shields.io/twitter/follow/ItsSammyng?logo=twitter&style=for-the-badge" /></a>
 <a href="https://www.instagram.com/sammygarch/" target="_blank"><img src="https://img.shields.io/badge/Follow @Sammygarch-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ## Here is My Github Stats
