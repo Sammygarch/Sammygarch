@@ -4,7 +4,7 @@
 
 ## Connect with me:
 <a href="https://twitter.com/ItsSammyng" target="_blank"><img src="https://img.shields.io/twitter/follow/ItsSammyng?logo=twitter&style=for-the-badge" /></a>
-<a href="https://www.instagram.com/sammygarch/" target="_blank"><img src="https://img.shields.io/badge/Follow @Sammygarch-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/sammygarch/" target="_blank"><img src="https://img.shields.io/badge/Follow @Sammygarch-FF0000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ## Here is My Github Stats
 
