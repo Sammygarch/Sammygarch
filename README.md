@@ -1,8 +1,8 @@
 #                                          __👋 Hi, I’m @Sammygarch__
-### 👀 I am intrested in contributing in more open source this year to improve my python skills
-    🌱 I’m currently learning everything I can in Python
-    👯 I’m looking to collaborate with other prgrammers
-    🥅 2022 Goals: Contribute more to Open Source projects
+#### - 👀 I am intrested in contributing in more open source this year to improve my python skills
+#### - 🌱 I’m currently learning everything I can in Python
+#### - 👯 I’m looking to collaborate with other prgrammers
+#### - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ## Connect with me:
 <a href="https://twitter.com/ItsSammyng" target="_blank"><img src="https://img.shields.io/twitter/follow/ItsSammyng?logo=twitter&style=for-the-badge" /></a>
