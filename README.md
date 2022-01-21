@@ -1,6 +1,6 @@
 #                                          __👋 Hi, I’m @Sammygarch__
 #### - 👀 I am intrested in contributing in more open source this year to improve my python skills
-#### - 🌱 I’m currently learning everything I can in Python
+#### - 🌱 I’m currently learning Ethical Hacking
 #### - 👯 I’m looking to collaborate with other prgrammers
 #### - 🥅 2022 Goals: Contribute more to Open Source projects
 
