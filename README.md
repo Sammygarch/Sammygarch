@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sammy</h1>
-<h3 align="center">A student from the UK looking to looking to learn and improve in computer science</h3>
+<h3 align="center">Im from the UK looking and im looking to learn and improve in computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammygarch&label=Profile%20views&color=f40b0b&style=plastic" alt="sammygarch" /> </p>
 
