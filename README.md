@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [school_algorithms](https://github.com/Sammygarch/school_algorithms)
 
-- 🌱 I’m currently learning **Python, JavaScript, Django, Linux and Ethical hacking**
+- 🌱 I’m currently learning **Python, JavaScript, Flutter, Django, Linux and Ethical hacking**
 
 - 🤝 I’m looking for help with [Sqlite3-login-system](https://github.com/Sammygarch/Sqlite3-login-system)
 
